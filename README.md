@@ -1,100 +1,107 @@
-# Olá! Eu sou a Evellyn 👋
+# Evellyn Miranda
 
-🎓 Estudante de **Engenharia de Software**
-💻 Desenvolvedora em formação | Suporte de TI
-☁️ Cloud Computing & Inteligência Artificial
-🚀 Interesse em DevOps, QA e desenvolvimento de software
+**Software Engineering Student | IT Support | Software Development | DevOps **
 
----
+Estudante de Engenharia de Software, com experiência em suporte técnico de TI e interesse em desenvolvimento de software, Cloud Computing, Inteligência Artificial, DevOps e Quality Assurance.
 
-## 👩‍💻 Sobre mim
-
-Sou estudante de Engenharia de Software e tenho interesse em tecnologia, desenvolvimento de sistemas e infraestrutura.
-
-Atualmente venho desenvolvendo meus conhecimentos em **Java, JavaScript, desenvolvimento web, bancos de dados, Cloud Computing, Inteligência Artificial, DevOps e testes de software**.
-
-Também possuo experiência com **suporte técnico de TI**, buscando unir desenvolvimento de software e infraestrutura para construir soluções eficientes e organizadas.
+Atualmente desenvolvo conhecimentos em Java, JavaScript, HTML, CSS, PostgreSQL e tecnologias relacionadas a desenvolvimento e infraestrutura.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## About Me
 
-### 💻 Desenvolvimento
+* Software Engineering student at Universidade Católica do Salvador
+* Technical IT Support experience
+* Cloud Computing and Artificial Intelligence studies
+* Interested in Software Development, DevOps and Software Testing
+* Experience with Java, JavaScript, HTML, CSS and PostgreSQL
+* Fluent in English and Spanish
+
+---
+
+## Technologies
+
+### Programming & Web
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
 </p>
 
-### 🗄️ Banco de Dados
+### Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-### ☁️ Cloud, DevOps & IA
+### Tools & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
 </p>
+
+### Areas of Interest
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cloud_Computing-232F3E?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/QA%20%26%20Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projetos em destaque
+## Featured Projects
 
-### 📚 Sistema de Notas Escolar
+### School Grade Management System
 
-Sistema desenvolvido com base em uma planilha de notas escolares, buscando transformar o processo de gerenciamento acadêmico em uma aplicação.
+Academic project focused on transforming a school grade spreadsheet into a structured software system.
 
-**Principais conceitos:**
+**Concepts:**
 
-* Cadastro de alunos
-* Cadastro de professores
-* Turmas e disciplinas
-* Registro de notas
-* Períodos/trimestres
-* Consultas e relatórios
-* Modelagem de banco de dados
+* Students
+* Teachers
+* Classes
+* Subjects
+* Grades
+* Academic periods
+* Reports
+* Database modeling
 
-**Tecnologias:** JavaScript • HTML • CSS • PostgreSQL
+**Technologies:** JavaScript, HTML, CSS, PostgreSQL
 
 ---
 
-### 🗄️ Projetos de Banco de Dados
+### Database Projects
 
-Projetos acadêmicos envolvendo:
+Academic projects focused on database design and management.
 
-* Modelagem conceitual
-* DER
-* Modelo lógico
+**Concepts:**
+
+* Entity-Relationship Diagram
+* Logical data modeling
 * PostgreSQL
 * SQL
-* Normalização
-* Relacionamentos entre entidades
+* Database normalization
+* Relationships between entities
 
 ---
 
-### ☕ Projetos em Java
+### Java Projects
 
-Projetos e exercícios desenvolvidos durante a graduação, explorando:
+Projects and exercises developed throughout my Software Engineering degree.
 
-* Programação Orientada a Objetos
-* Classes e objetos
-* Encapsulamento
-* Estruturas de dados
+**Concepts:**
+
+* Object-Oriented Programming
+* Classes and objects
+* Encapsulation
+* Data structures
 * Collections
-* Algoritmos
-* Boas práticas de programação
+* Algorithms
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evellynpedroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -103,7 +110,7 @@ Projetos e exercícios desenvolvidos durante a graduação, explorando:
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=evellynpedroso&theme=tokyonight&hide_border=false" />
@@ -111,45 +118,42 @@ Projetos e exercícios desenvolvidos durante a graduação, explorando:
 
 ---
 
-## 🎓 Formação
+## Education
 
-**Engenharia de Software**
+**Software Engineering**
 Universidade Católica do Salvador
 
-**Computação em Nuvem e Inteligência Artificial**
+**Cloud Computing and Artificial Intelligence**
 Fundação FAT
 
 ---
 
-## 📚 Atualmente estudando
+## Currently Learning
 
-* ☕ Java
-* 🌐 JavaScript
-* 🖥️ HTML & CSS
-* 🗄️ PostgreSQL
-* ☁️ Cloud Computing
-* 🤖 Inteligência Artificial
-* 🚀 DevOps
-* 🧪 Testes de Software
-* 🔧 Suporte Técnico e Infraestrutura
-
----
-
-## 🎯 Objetivos
-
-Busco desenvolver minha carreira na área de tecnologia, adquirindo experiência prática em **desenvolvimento de software, suporte de TI, Cloud, DevOps e qualidade de software**.
+* Java
+* JavaScript
+* HTML & CSS
+* PostgreSQL
+* Cloud Computing
+* Artificial Intelligence
+* DevOps
+* Software Testing
+* IT Infrastructure
 
 ---
 
-## 🌎 Idiomas
+## Career Interests
 
-🇧🇷 Português — Nativo
-🇺🇸 Inglês — Fluente
-🇪🇸 Espanhol — Fluente
+Software Development
+IT Support
+Cloud Computing
+DevOps
+Quality Assurance
+Artificial Intelligence
 
 ---
 
-## 📫 Entre em contato
+## Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/evellyn-miranda-3ab790224/">
@@ -158,11 +162,5 @@ Busco desenvolver minha carreira na área de tecnologia, adquirindo experiência
   <a href="https://github.com/evellynpedroso">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Sempre aprendendo, construindo e evoluindo através da tecnologia."</i>
 </p>
 
